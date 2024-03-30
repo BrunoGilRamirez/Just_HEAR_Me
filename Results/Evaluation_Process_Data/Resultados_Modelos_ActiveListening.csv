@@ -1,0 +1,6 @@
+,Num of coherence as true,Num of contextual attention as true,Num of formulation of clarifying questions as true,Num of go deeper into the conversation as true,Num of absence of judgment or criticism as true,Num of Empathy,Empathy: Num of first evaluation as true and second evaluation as false,Empathy: Num of first evaluation as false and second evaluation as true,Empathy: Num of first evaluation and second evaluation as false
+GPT-3.5,1309,1256,776,1215,1292,1212,49,16,31
+Solo_Escuchame_Model,1318,1240,913,1254,1300,1255,38,7,16
+LLaMA2-7b-chat,1303,1260,718,1240,1278,1256,32,4,9
+Mixtral8x7b,1316,1277,531,1185,1299,1264,35,10,6
+GPT-2_124M,620,462,199,470,517,412,162,18,27
